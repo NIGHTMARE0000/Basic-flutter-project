@@ -1,4 +1,4 @@
-This is a basic project which displays breakfast menu, salads,cake,pie with recommendation for diet diplaying the time and calorie for each item.Also there is popular box with displays some of the popular items by people. 
+This is a basic mobile app project which displays breakfast menu, salads,cake,pie with recommendation for diet diplaying the time and calorie for each item.Also there is popular box with displays some of the popular items by people. 
 
 This project is made using flutter and dart and Scaffold class.
 
