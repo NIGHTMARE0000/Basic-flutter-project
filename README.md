@@ -1,4 +1,1 @@
-
-"# digger-app" 
-
-this is the basics of flutter which will help me in building the digger app which is going to display food item along with user login and credit card verification
+This is a basic project which displays breakfast menu, salads,cake,pie with recommendation for diet diplaying the time and calorie for each item.
